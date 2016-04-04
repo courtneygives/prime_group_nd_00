@@ -10,6 +10,6 @@ The second module should accept a number and convert it to a USD value (Hint: yo
 
 The third module should require the other two modules. It should have two function exports. The first function export should be the return of the first module being passed into the second module. The other function should be a simple text return that says “Account balance: \n”.
 
-Finally, in the app.js, do the standard stuff. Start a server, require what else is needed, set the port. When the server is curled, it should produce the result of third module.
+Finally, in the app.js, bring it all together! At the end you should be able to run "node app.js" and it will produce the result.
 
 Good luck!
