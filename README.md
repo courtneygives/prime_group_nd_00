@@ -1,6 +1,6 @@
-# prime_peer_nd_00
+# prime_group_nd_00
 
-Welcome to your Node Module Peer challenge!
+Welcome to your Node Module Group challenge!
 
 In this challenge, you will need to spin up a new project (much like we did in lecture).  You will need to create a couple modules to complete this challenge.
 
